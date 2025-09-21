@@ -1,4 +1,4 @@
-# 👋 Hi, 我是 [你的昵称/名字] ！  
+# 👋 Hi, 我是 [HuangMiu1337/名字] ！  
 
 🌸 **Java 开发者** | **后端工程师** | **二次元爱好者**  
 🔧 **专注技术**：Spring Boot / 微服务架构 / 云原生 / 高并发系统  
@@ -28,8 +28,8 @@
 ## 📊 我的 GitHub 状态  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HuangMiu1337&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangMiu1337&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
@@ -37,13 +37,13 @@
 ## ⚡ 动态效果  
 
 👀 **访客计数**：  
-![Visitor Count](https://komarev.com/ghpvc/?username=你的用户名&color=blueviolet&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=HuangMiu1337&color=blueviolet&style=flat-square)  
 
 💬 **GitHub 连续提交**：  
-![GitHub Streak](https://streak-stats.demolab.com/?user=你的用户名&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=HuangMiu1337&theme=radical&hide_border=true)  
 
 🎮 **贪吃蛇动态贡献图**：  
-![snake gif](https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HuangMiu1337/HuangMiu1337/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
