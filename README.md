@@ -49,7 +49,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HuangMiu1337&theme=radical&hide_border=true)  
 
 🎮 **贪吃蛇动态贡献图**：  
-![snake gif](https://github.com/HuangMiu1337/HuangMiu1337/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
