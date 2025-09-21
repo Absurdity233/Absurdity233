@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ 技术栈与工具  
-🌟 我使用的技术：
+🌟 我使用的技术：  
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)  
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub 状态
+## 📊 GitHub 状态  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HuangMiu1337&show_icons=true&theme=radical" height="160" />
