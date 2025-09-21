@@ -1,0 +1,28 @@
+name: Snake Game
+
+on:
+  push:
+    branches:
+      - main  # 确保分支名与你的主分支一致
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Generate Snake Gif
+        uses: Platane/snk@v2
+        with:
+          github_user: '你的用户名'  # 替换成你的 GitHub 用户名
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          gif_out_path: 'github-contribution-grid-snake.svg'
+      - name: Commit Snake Gif
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'Your Name'
+          author_email: 'your_email@example.com'
+          message: 'Update snake gif'
