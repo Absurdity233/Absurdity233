@@ -17,7 +17,8 @@
 ---
 
 ## 🛠️ 技术栈与工具  
-🌟 我使用的技术：  
+🌟 我使用的技术：
+
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)  
@@ -41,31 +42,22 @@
 
 ## ⚡ 动态效果  
 
-<p align="center">
-  👀 **访客计数**：  
-  <br>
-  ![Visitor Count](https://komarev.com/ghpvc/?username=HuangMiu1337&color=blueviolet&style=flat-square)
-</p>
+👀 **访客计数**：  
+![Visitor Count](https://komarev.com/ghpvc/?username=HuangMiu1337&color=blueviolet&style=flat-square)  
 
-<p align="center">
-  💬 **GitHub 连续提交**：  
-  <br>
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=HuangMiu1337&theme=radical&hide_border=true)
-</p>
+💬 **GitHub 连续提交**：  
+![GitHub Streak](https://streak-stats.demolab.com/?user=HuangMiu1337&theme=radical&hide_border=true)  
 
-<p align="center">
-  🎮 **贪吃蛇动态贡献图**：  
-  <br>
-  ![snake gif](https://github.com/HuangMiu1337/HuangMiu1337/blob/main/github-contribution-grid-snake.svg)
-</p>
+🎮 **贪吃蛇动态贡献图**：  
+![snake gif](https://github.com/HuangMiu1337/HuangMiu1337/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 联系我  
 
-- 📫 **邮箱**：[your_email@example.com](mailto:your_email@example.com)  
-- 📝 **博客 / 个人网站**：[your-website.com](https://your-website.com)  
-- 🎮 **兴趣项目**：[开源项目链接]
+- 📫 邮箱：your_email@example.com  
+- 📝 博客 / 个人网站：[your-website.com](https://your-website.com)  
+- 🎮 兴趣项目：[可加开源项目链接]
 
 ---
 
