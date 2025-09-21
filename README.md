@@ -19,15 +19,15 @@
 ## 🛠️ 技术栈与工具  
 🌟 我使用的技术：
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=fff)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
+[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
+[Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)  
+[Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)  
+[Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=fff)  
+[React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+[Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+[MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
+[Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
+[Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
 
 ---
 
