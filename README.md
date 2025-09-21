@@ -2,9 +2,9 @@
 
 🌸 **全栈开发者** | **Java** | **Rust** | **Go**  
 🧑‍💻 **技术栈**：Java、Rust、Go、C++、Spring Boot、React、MySQL  
-🌱 **正在学习**：Java（JVM、垃圾回收、性能优化、并发编程）、C++（内存管理、STL、模板编程、并发编程）、汇编语言（ASM）  
-✨ **二次元爱好者** | 🎮 **游戏狂人** | 📚 **技术分享与开源贡献者**  
-🌟 **喜欢的角色**：Eren Yeager、Mikasa Ackerman、Luffy、Asuka Langley  
+🌱 **正在学习**：、C++（内存管理、STL、模板编程、并发编程）、汇编语言（ASM）  
+✨ **二次元爱好者** | 🎮 **Minecraft** | 📚 **开源分享**  
+🌟 **最喜欢的角色**：Yoroizuka Mizore
 
 ---
 
