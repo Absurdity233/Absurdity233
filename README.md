@@ -1,15 +1,16 @@
 # 👋 Hi, 我是 **Absurdity**！  
 
 🌸 **全栈开发者** | **Java** | **Rust** | **Go**  
-🧑‍💻 **技术栈**：Java、Rust、Go、Spring Boot、React、Vue、MySQL、PostgreSQL  
-🌱 **正在学习**：Kubernetes、Docker、机器学习、区块链  
-✨ **二次元爱好者** | 🎮 **游戏狂人** | 📚 **技术分享与开源贡献者**
+🧑‍💻 **技术栈**：Java、Rust、Go、C++、Spring Boot、React、MySQL  
+🌱 **正在学习**：Java（JVM、垃圾回收、性能优化、并发编程）、C++（内存管理、STL、模板编程、并发编程）、汇编语言（ASM）  
+✨ **二次元爱好者** | 🎮 **游戏狂人** | 📚 **技术分享与开源贡献者**  
+🌟 **喜欢的角色**：Eren Yeager、Mikasa Ackerman、Luffy、Asuka Langley  
 
 ---
 
 ## 🛠️ 技术栈与工具  
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=fff) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
 
@@ -38,4 +39,5 @@
 ## 🌐 联系我  
 
 - 📫 邮箱：your_email@example.com  
-- 💬 QQ：[你的QQ号]
+- 📝 个人网站：[your-website.com](https://your-website.com)  
+- 💬 QQ：[你的QQ号]  
