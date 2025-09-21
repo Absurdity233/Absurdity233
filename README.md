@@ -1,33 +1,23 @@
 # 👋 Hi, 我是 **Absurdity**！  
 
 🌸 **全栈开发者** | **Java** | **Rust** | **Go**  
-🧑‍💻 **技术栈**：  
-- Java、Rust、Go  
-- Spring Boot、微服务架构  
-- 前端框架：React、Vue  
-- 数据库：MySQL、PostgreSQL  
-
-🌱 **正在学习**：  
-- 云原生（Kubernetes & Docker）  
-- 机器学习与深度学习  
-- 区块链与智能合约  
-
-✨ **二次元爱好者** | 🎮 **游戏狂人** | 📚 **技术分享与开源贡献者**
+🎮 **二次元爱好者** | 📚 **技术分享与开源贡献者**  
 
 ---
 
-## 🛠️ 技术栈与工具  
-🌟 我使用的技术：
+## 🧑‍💻 技术栈
 
-[Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
-[Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=fff)  
-[Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)  
-[Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=fff)  
-[React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-[Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-[MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
-[Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
-[Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff)  
+🌟 我擅长的技术：
+- **后端**：Java, Rust, Go  
+- **前端**：React, Vue  
+- **框架**：Spring Boot, 微服务架构  
+- **数据库**：MySQL, PostgreSQL  
+- **容器化**：Docker, Kubernetes  
+
+🌱 **正在学习**：
+- 云原生（Kubernetes & Docker）  
+- 机器学习与深度学习  
+- 区块链与智能合约  
 
 ---
 
@@ -40,7 +30,7 @@
 
 ---
 
-## ⚡ 动态效果  
+## ⚡ 动态效果
 
 👀 **访客计数**：  
 ![Visitor Count](https://komarev.com/ghpvc/?username=HuangMiu1337&color=blueviolet&style=flat-square)  
@@ -53,11 +43,11 @@
 
 ---
 
-## 🌐 联系我  
+## 🌐 联系我
 
-- 📫 邮箱：your_email@example.com  
-- 📝 博客 / 个人网站：[your-website.com](https://your-website.com)  
-- 🎮 兴趣项目：[可加开源项目链接]
+- 📧 **邮箱**：[your_email@example.com](mailto:your_email@example.com)  
+- 🌍 **个人网站**：[your-website.com](https://your-website.com)  
+- 🎮 **兴趣项目**：[开源项目链接 / 动漫相关项目]
 
 ---
 
