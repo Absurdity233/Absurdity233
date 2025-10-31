@@ -21,6 +21,17 @@
 
 </div>
 
+<!-- Mizore corner (replace the image URL with your own file path) -->
+
+<div align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/Absurdity233/Absurdity233/main/assets/mizore/mizore-sticker.png" alt="Yoroizuka Mizore" width="320"/>
+  </a>
+  <br/>
+  <sub>Art credit: <a href="#">Artist</a> · Used with permission / license ✅（若为官方素材，请确认版权规则后再使用）</sub>
+</div>
+<!-- /Mizore corner -->
+
 ---
 
 ## 🛠️ 技术栈与工具
@@ -38,6 +49,8 @@
 
 * C++（内存管理、STL、模板编程、并发编程）
 * 汇编语言（ASM）
+
+> 小贴士：将文中 `Absurdity233` 替换成你的 GitHub 用户名即可复用。
 
 ---
 
