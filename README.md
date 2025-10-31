@@ -10,13 +10,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=7AA2FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;Spring+Boot+%7C+React+%7C+MySQL;Clean+Code+%7C+Performance+%7C+Concurrency" alt="typing"/>
 
-<p>🌸 <b>全栈开发者</b> ｜ Java ｜ Rust ｜ Go　·　✨ 二次元爱好者 ｜ 🎮 Minecraft ｜ 📚 开源分享  
-🌟 最喜欢的角色：<b>Yoroizuka Mizore</b></p>
+<p>🌸 <b>全栈开发者</b> ｜ Java ｜ Rust ｜ Go　·　✨ 二次元爱好者 ｜ 🎮 Minecraft ｜ 📚 开源分享  </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Mizore%20Mode-ice%20blue%20%7C%20lavender-7AA2FF?style=for-the-badge" alt="mizore"/>
-  <br/>
-  <sub>❄️ 静谧 · 轻盈 · 通透｜🕊️ 冷色调与留白</sub>
 </div>
 
 </div>
@@ -27,8 +24,6 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/Absurdity233/Absurdity233/main/assets/mizore/mizore-sticker.png" alt="Yoroizuka Mizore" width="320"/>
   </a>
-  <br/>
-  <sub>Art credit: <a href="#">Artist</a> · Used with permission / license ✅（若为官方素材，请确认版权规则后再使用）</sub>
 </div>
 <!-- /Mizore corner -->
 
@@ -49,8 +44,6 @@
 
 * C++（内存管理、STL、模板编程、并发编程）
 * 汇编语言（ASM）
-
-> 小贴士：将文中 `Absurdity233` 替换成你的 GitHub 用户名即可复用。
 
 ---
 
@@ -83,21 +76,9 @@
 
 ---
 
-## 📌 置顶项目（Pinned）
-
-<!-- 将 REPO_ONE / REPO_TWO 替换为你的仓库名，或复制增加更多卡片 -->
-
-<p align="center">
-  <a href="https://github.com/Absurdity233/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Absurdity233&repo=REPO_ONE&theme=radical&hide_border=true" alt="REPO_ONE"/></a>
-  <a href="https://github.com/Absurdity233/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Absurdity233&repo=REPO_TWO&theme=radical&hide_border=true" alt="REPO_TWO"/></a>
-</p>
-
----
-
 ## ⚡ 动态组件
 
 * 👀 访客计数：<img src="https://komarev.com/ghpvc/?username=Absurdity233&color=blueviolet&style=flat-square" alt="views-mini"/>
-* 💬 连续提交：<img src="https://streak-stats.demolab.com?user=Absurdity233&theme=radical&hide_border=true" height="20" alt="streak-mini"/>
 
 ---
 
