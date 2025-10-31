@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Absurdity&fontAlign=50&section=header&color=0:8A2BE2,100:FF6AC1&fontColor=ffffff&animation=twinkling" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Absurdity&fontAlign=50&section=header&color=0:8EC5FC,100:E0C3FC&fontColor=ffffff&animation=twinkling" alt="header"/>
 
 <p>
   <a href="https://github.com/Absurdity233?tab=followers"><img src="https://img.shields.io/github/followers/Absurdity233?style=for-the-badge" alt="followers"/></a>
@@ -8,10 +8,16 @@
   <a href="https://komarev.com/ghpvc/?username=Absurdity233&color=blueviolet&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Absurdity233&color=blueviolet&style=for-the-badge" alt="views"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=F35A9F&center=true&vCenter=true&width=700&lines=Full‑stack+Developer;Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;Spring+Boot+%7C+React+%7C+MySQL;Clean+Code+%E2%80%A2+Performance+%E2%80%A2+Concurrency" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=7AA2FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;Spring+Boot+%7C+React+%7C+MySQL;Clean+Code+%7C+Performance+%7C+Concurrency" alt="typing"/>
 
 <p>🌸 <b>全栈开发者</b> ｜ Java ｜ Rust ｜ Go　·　✨ 二次元爱好者 ｜ 🎮 Minecraft ｜ 📚 开源分享  
 🌟 最喜欢的角色：<b>Yoroizuka Mizore</b></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mizore%20Mode-ice%20blue%20%7C%20lavender-7AA2FF?style=for-the-badge" alt="mizore"/>
+  <br/>
+  <sub>❄️ 静谧 · 轻盈 · 通透｜🕊️ 冷色调与留白</sub>
+</div>
 
 </div>
 
@@ -74,7 +80,7 @@
 ## 🌐 联系我
 
 <p>
-  <a href="mailto:absurdity1337@gmail.com"><img src="https://img.shields.io/badge/Email-absurdity1337%40gmail.com-168de2?logo=gmail&logoColor=fff&style=for-the-badge" alt="email"/></a>
+  <a href="mailto:absurdity1337@gmail.com"><img src="https://img.shields.io/badge/Email-absurdity1337%40gmail.com-7AA2FF?logo=gmail&logoColor=fff&style=for-the-badge" alt="email"/></a>
   <a href="#"><img src="https://img.shields.io/badge/QQ-457676887-EB1923?logo=tencentqq&logoColor=fff&style=for-the-badge" alt="qq"/></a>
 </p>
 
@@ -84,6 +90,6 @@
 
 <i>“Keep it simple, make it fast.”</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8A2BE2,100:FF6AC1" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8EC5FC,100:E0C3FC" alt="footer"/>
 
 </div>
