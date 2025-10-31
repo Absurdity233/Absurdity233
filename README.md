@@ -17,8 +17,8 @@
 ## 📊 GitHub 状态  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuangMiu1337&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangMiu1337&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Absurdity233&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Absurdity233&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
@@ -26,10 +26,10 @@
 ## ⚡ 动态效果  
 
 👀 **访客计数**：  
-![Visitor Count](https://komarev.com/ghpvc/?username=HuangMiu1337&color=blueviolet&style=flat-square)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Absurdity233&color=blueviolet&style=flat-square)  
 
 💬 **GitHub 连续提交**：  
-![GitHub Streak](https://streak-stats.demolab.com/?user=HuangMiu1337&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Absurdity233&theme=radical&hide_border=true)  
 
 🎮 **贪吃蛇动态贡献图**：  
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
