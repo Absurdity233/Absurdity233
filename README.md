@@ -83,6 +83,17 @@
 
 ---
 
+## 📌 置顶项目（Pinned）
+
+<!-- 将 REPO_ONE / REPO_TWO 替换为你的仓库名，或复制增加更多卡片 -->
+
+<p align="center">
+  <a href="https://github.com/Absurdity233/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Absurdity233&repo=REPO_ONE&theme=radical&hide_border=true" alt="REPO_ONE"/></a>
+  <a href="https://github.com/Absurdity233/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Absurdity233&repo=REPO_TWO&theme=radical&hide_border=true" alt="REPO_TWO"/></a>
+</p>
+
+---
+
 ## ⚡ 动态组件
 
 * 👀 访客计数：<img src="https://komarev.com/ghpvc/?username=Absurdity233&color=blueviolet&style=flat-square" alt="views-mini"/>
@@ -92,9 +103,9 @@
 
 ## 🌐 联系我
 
-<p>
+<p align="center">
   <a href="mailto:absurdity1337@gmail.com"><img src="https://img.shields.io/badge/Email-absurdity1337%40gmail.com-7AA2FF?logo=gmail&logoColor=fff&style=for-the-badge" alt="email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/QQ-457676887-EB1923?logo=tencentqq&logoColor=fff&style=for-the-badge" alt="qq"/></a>
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=457676887&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-457676887-EB1923?logo=tencentqq&logoColor=fff&style=for-the-badge" alt="qq"/></a>
 </p>
 
 ---
