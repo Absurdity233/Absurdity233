@@ -18,15 +18,6 @@
 
 </div>
 
-<!-- Mizore corner (replace the image URL with your own file path) -->
-
-<div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Absurdity233/Absurdity233/main/assets/mizore/mizore-sticker.png" alt="Yoroizuka Mizore" width="320"/>
-  </a>
-</div>
-<!-- /Mizore corner -->
-
 ---
 
 ## 🛠️ 技术栈与工具
