@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=7AA2FF&center=true&vCenter=true&width=660&lines=Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;mostly+backend%2C+sometimes+low-level;building+AI+agent+harnesses;reading+memory+over+DMA;Minecraft+and+some+open+source" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=7AA2FF&center=true&vCenter=true&width=660&lines=Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;mostly+backend%2C+sometimes+low-level;still+reading+asm+and+reverse+engineering;Minecraft+and+some+open+source" alt="typing"/>
 
-<p>主要写后端，偶尔往下钻一点。最近在折腾 AI agent 和 DMA，喜欢 Minecraft，攒了不少没看完的书，也开源过几样东西。</p>
+<p>主要写后端，偶尔往下钻一点。喜欢 Minecraft，攒了不少没看完的书，也开源过几样东西。</p>
 
 <img src="https://img.shields.io/badge/Mizore%20Mode-ice%20blue%20%7C%20lavender-7AA2FF?style=for-the-badge" alt="mizore"/>
 
@@ -31,12 +31,6 @@
 </p>
 
 工作里主要是 Java 后端：写业务、设计接口、把 CI/CD 和容器化那套搭起来。真正让我上心的还是性能、内存和并发——代码写得越久，越觉得这几块绕不开，也最容易写错。
-
-## 在啃的
-
-AI agent 那摊。给模型一堆工具让它自己干活，麻烦全在细节：它会卡在同一处反复试，日志拉出来才发现第三步就已经跑偏，后面全在自圆其说。上下文也不够用，工具返回的数据太长，砍了怕漏，不砍又爆。现在大半时间花在这些地方——什么该进上下文、什么时候该打断、怎么分辨它是真做完了还是只是说做完了。没什么系统路子，基本撞到哪算哪。
-
-DMA。拿板子从 PCIe 那头读另一台机器的内存，被读的那台一点都不知道。本以为插上就能读，真动手才发现卡住的都是别的：页表要自己走，结构体偏移只能从汇编里反推，虚拟地址到物理地址那层翻译最耗时间。指针链走通一次能高兴半天，走不通就更久。
 
 ## 一些数字
 
