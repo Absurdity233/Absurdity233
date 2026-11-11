@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=7AA2FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;Spring+Boot+%7C+React+%7C+MySQL;Clean+Code+%7C+Performance+%7C+Concurrency" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=7AA2FF&center=true&vCenter=true&width=660&lines=Java+%7C+Rust+%7C+Go+%7C+C%2B%2B;mostly+backend%2C+sometimes+low-level;still+reading+asm+and+reverse+engineering;Minecraft+and+some+open+source" alt="typing"/>
 
-<p>🌸 <b>全栈开发者</b> ｜ Java ｜ Rust ｜ Go　·　✨ 二次元爱好者 ｜ 🎮 Minecraft ｜ 📚 开源分享 </p>
+<p>主要写后端，偶尔往下钻一点。喜欢 Minecraft，攒了不少没看完的书，也开源过几样东西。</p>
 
 <img src="https://img.shields.io/badge/Mizore%20Mode-ice%20blue%20%7C%20lavender-7AA2FF?style=for-the-badge" alt="mizore"/>
 
@@ -24,25 +24,21 @@
 
 ---
 
-## 🛠️ 技术栈与工具
+## 平时用的东西
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,rust,go,cpp,spring,react,mysql,git,linux,idea,vscode,docker&perline=12" alt="skills"/>
 </p>
 
-* **核心领域**：后端业务架构、接口设计、基础设施（CI/CD、容器化）
-* **关注方向**：高性能计算、内存管理、并发编程、可观测性
+工作里主要是 Java 后端：写业务、设计接口、把 CI/CD 和容器化那套搭起来。真正让我上心的还是性能、内存和并发——代码写得越久，越觉得这几块绕不开，也最容易写错。
 
----
+## 在啃的
 
-## 🌱 正在学习
+C++ 还在补课，内存管理、STL、模板、并发，一样一样来。
 
-* **C++**：深入内存管理、STL、模板编程与并发编程
-* **底层技术**：汇编语言 (ASM)、逆向工程与软件保护
+再往下一层是汇编、逆向和软件保护。倒不是非要用上，只是想知道程序跑起来的时候，底下到底在干什么。
 
----
-
-## 📊 GitHub 数据面板
+## 一些数字
 
 <p align="center">
   <a href="https://github.com/Absurdity233">
@@ -71,13 +67,7 @@
 
 ---
 
-## ⚡ 动态组件
-
-* 👀 **访客计数**：<img src="https://komarev.com/ghpvc/?username=Absurdity233&color=blueviolet&style=flat-square" alt="views-mini"/>
-
----
-
-## 🌐 联系我
+## 找我
 
 <p align="center">
   <a href="mailto:absurdity1337@gmail.com">
@@ -88,11 +78,13 @@
   </a>
 </p>
 
+邮件或者 QQ 都行，聊代码、聊 Minecraft，或者只是随便说几句，都可以。
+
 ---
 
 <div align="center">
 
-<i>“Keep it simple, make it fast.”</i>
+<i>先让它跑起来，再让它跑快点。</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:8EC5FC,100:E0C3FC" alt="footer"/>
 
