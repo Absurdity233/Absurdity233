@@ -42,7 +42,7 @@ C++ 还在补课，内存管理、STL、模板、并发，一样一样来。
 
 <p align="center">
   <a href="https://github.com/Absurdity233">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Absurdity233&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="165" alt="stats"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Absurdity233&show_icons=true&theme=radical&rank_icon=github&hide_border=true&hide=contribs" height="165" alt="stats"/>
   </a>
   <a href="https://github.com/Absurdity233">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Absurdity233&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="top languages"/>
@@ -62,7 +62,7 @@ C++ 还在补课，内存管理、STL、模板、并发，一样一样来。
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Absurdity233/Absurdity233/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
