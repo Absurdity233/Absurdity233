@@ -42,22 +42,22 @@ C++ 还在补课，内存管理、STL、模板、并发，一样一样来。
 
 <p align="center">
   <a href="https://github.com/Absurdity233">
-    <img src="https://github-readme-stats.vercel.app/api?username=Absurdity233&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="165" alt="stats"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Absurdity233&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="165" alt="stats"/>
   </a>
   <a href="https://github.com/Absurdity233">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Absurdity233&layout=compact&theme=radical&hide_border=true" height="165" alt="top languages"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Absurdity233&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="top languages"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=Absurdity233&theme=radical&hide_border=true">
+  <a href="https://streak-stats.demolab.com/?user=Absurdity233&theme=radical&hide_border=true">
     <img src="https://streak-stats.demolab.com?user=Absurdity233&theme=radical&hide_border=true" height="165" alt="streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Absurdity233&theme=dracula&column=6&no-frame=true&no-bg=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=Absurdity233&theme=dracula&column=6&no-frame=true&no-bg=true" alt="trophy"/>
+  <a href="https://github-trophy.vercel.app/?username=Absurdity233&theme=dracula&column=6&margin-w=8&no-frame=true&no-bg=true">
+    <img src="https://github-trophy.vercel.app/?username=Absurdity233&theme=dracula&column=6&margin-w=8&no-frame=true&no-bg=true" alt="trophy"/>
   </a>
 </p>
 
